@@ -14,7 +14,7 @@
    🔗 [https://www.youtube.com/watch?v=UO98lJQ3QGI](https://www.youtube.com/watch?v=UO98lJQ3QGI)
 
 4. **Pandas Visualization (YouTube – Keith Galli)** – Covers plotting with Pandas.  
-   🔗 [https://www.youtube.com/watch?v=0TF7Ys36U60](https://www.youtube.com/watch?v=0TF7Ys36U60)
+   🔗 [https://www.youtube.com/watch?v=JpSMse3eVVg&pp=ygUUcGFuZGFzIHZpc3VhbGl6YXRpb24%3D](https://www.youtube.com/watch?v=JpSMse3eVVg&pp=ygUUcGFuZGFzIHZpc3VhbGl6YXRpb24%3D)
 
 5. **Seaborn Tutorial (YouTube – Data School)** – Deep dive into Seaborn for statistical data visualization.  
    🔗 [https://www.youtube.com/watch?v=6GUZXDef2U0](https://www.youtube.com/watch?v=6GUZXDef2U0)
